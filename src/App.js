@@ -1,10 +1,11 @@
-
+import React from "react";
+import Body from "./components/body";
 
 function App() {
   return (
-    <div>
-     <h1 className="font-bold text-xl"> hello</h1> 
-    </div>
+    
+     <Body />
+
   );
 }
 
